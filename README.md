@@ -48,7 +48,7 @@ Introduction-to-Self-Driving-Cars/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Pradumya10.git
 ```
 
 ### 2. Install the Required Software
